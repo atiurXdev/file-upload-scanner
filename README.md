@@ -1,4 +1,4 @@
-cat > README.md << EOF
+
 # File Upload Vulnerability Scanner 🔍
 
 A GUI-based tool to detect file upload vulnerabilities using OWASP Juice Shop.
