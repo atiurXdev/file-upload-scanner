@@ -1,0 +1,11 @@
+cat > .gitignore << EOF
+venv/
+__pycache__/
+*.pyc
+uploads_vulnerable/
+uploads_secure/
+*.cap
+*.pcapng
+report.txt
+.DS_Store
+EOF
